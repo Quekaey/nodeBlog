@@ -1,12 +1,12 @@
 import React from "react";
-import Logo from "../img/logo.png";
+import Logo from "../img/logo1.png";
 
 const Footer = () => {
   return (
     <footer>
       <img src={Logo} alt="" />
       <span>
-        Made with ♥️ <b>Que</b>.
+        Blog with <b>QueAgency</b> 2023.
       </span>
     </footer>
   );
